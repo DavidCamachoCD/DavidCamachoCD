@@ -6,7 +6,7 @@
 
 ### David Camacho
 
-**Head of Data Intelligence** at [Celestial Dynamics](https://celestialdynamics.io) since July 2026, after ten months as AI Architect. Mathematician from UNAM (Faculty of Sciences). I work at the intersection of mathematical rigor and production-grade AI engineering — knowledge graphs, retrieval-augmented generation, and inference infrastructure running on-premise.
+Ex *Head of Data Intelligence** at [Celestial Dynamics](https://celestialdynamics.io), after ten months as AI Architect. Mathematician from UNAM (Faculty of Sciences). I work at the intersection of mathematical rigor and production-grade AI engineering — knowledge graphs, retrieval-augmented generation, and inference infrastructure running on-premise.
 
 I lead a team of five and set the reference architecture and priorities for five products and three cross-functional collaborations. I design systems and document them so that someone else can sustain them.
 
@@ -44,7 +44,7 @@ Neo4j GraphAcademy (2022) — Certified Professional · Graph Data Science Certi
 
 ### David Camacho
 
-**Head of Data Intelligence** en [Celestial Dynamics](https://celestialdynamics.io) desde julio de 2026, tras diez meses como AI Architect. Matemático por la UNAM (Facultad de Ciencias). Trabajo en la intersección entre rigor matemático e ingeniería de IA en producción: knowledge graphs, recuperación aumentada por generación e infraestructura de inferencia *on-premise*.
+**Ex Head of Data Intelligence** en [Celestial Dynamics](https://celestialdynamics.io), tras diez meses como AI Architect. Matemático por la UNAM (Facultad de Ciencias). Trabajo en la intersección entre rigor matemático e ingeniería de IA en producción: knowledge graphs, recuperación aumentada por generación e infraestructura de inferencia *on-premise*.
 
 Dirijo un equipo de cinco personas y defino la arquitectura de referencia y las prioridades de cinco productos y tres colaboraciones transversales. Diseño sistemas y los documento para que otra persona pueda sostenerlos.
 
